@@ -8,10 +8,10 @@
         "disable-scroll": true,
         "all-outputs": true,
         "format": "{name}",
-        "sort-by-name": false
+        "sort-by-number": true
     },      
     "network": {
-        "format-wifi": "{essid} ({signalStrength}%) ",
+        "format-wifi": "{essid} ",
         "format-ethernet": "{ipaddr}/{cidr} ",
         "tooltip-format": "{ifname} via {gwaddr} ",
         "format-linked": "{ifname} (No IP) ",
