@@ -1,0 +1,16 @@
+style=/home/unuing/.config/wofi/style.css
+show=drun
+width=75%
+height=33%
+columns=5
+always_parse_args=true
+show_all=false
+print_command=true
+layer=top
+insensitive=true
+prompt=
+hide_scroll=true
+location=center
+normal_window=false
+term=alacritty
+

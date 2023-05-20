@@ -1,0 +1,107 @@
+* {
+    border: none;
+    border-radius: 10px;
+    font-family: Inter;
+    font-size: 15px;
+    min-height: 10px;
+}
+window#waybar {
+    background: transparent;
+    opacity: 0.75;
+}
+window#waybar.hidden {
+    opacity: 0.2;
+}
+#workspaces button {
+    background: #252733;
+    color: #c2caea;
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 0px;
+    padding: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#network {
+    margin-top: 4px;
+    margin-left: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 0px;
+    transition: none;
+    color: #cd79c1;
+    background: #252733;
+}
+#temperature {
+    margin-top: 4px;
+    margin-left: 8px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+    padding-right: 10px;
+    transition: none;
+    color: #7dda9f;
+    background-color: #252733;
+}
+#pulseaudio {
+    margin-top: 4px;
+    margin-left: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 0px;
+    transition: none;
+    color: #ac92c6;
+    background: #2d2d3a;
+}
+#battery {
+    margin-top: 4px;
+    margin-left: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 0px;
+    transition: none;
+    background-color: #252733;
+    color: #B5E8E0;
+}
+#tray {
+    margin-top: 4px;
+    margin-left: 8px;
+    margin-right: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 0px;
+    transition: none;
+    color: #aea4d0;
+    background: #252733;
+}
+#memory {
+    margin-top: 4px;
+    margin-left: 8px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+    padding-right: 10px;
+    transition: none;
+    color: #7dda9f;
+    background-color: #252733;
+}
+#cpu {
+    margin-top: 4px;
+    margin-left: 8px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+    padding-right: 10px;
+    transition: none;
+    color: #f48f8f;
+    background-color: #252733;
+}
+#clock {
+    margin-top: 4px;
+    margin-left: 8px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+    padding-right: 10px;
+    transition: none;
+    color: #e68da5;
+    background: #292c3a;
+}
+
