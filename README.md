@@ -27,4 +27,5 @@ xdg-desktop-portal-hyprland<br>
 xdg-user-dirs<br>
 fcitx5-im (package group)<br>
 fcitx5-nord<br>
-polkit-kde-agent
+polkit-kde-agent<br>
+inter-font
